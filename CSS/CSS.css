@@ -1,0 +1,192 @@
+body {
+margin: 0px;
+}
+#w1{  font-size: 30px;
+    float: right;
+    background-color:cornflowerblue ;
+    width: 100%;
+    color:white;
+    height:60px;
+    margin: 0px;
+   padding: 0px;
+}
+
+font-face{
+    font-family: "Lalezar";
+    scr: url("../Font/Lalezar-Regular.otf") format("otf");
+    url("../Font/Lalezar-Regular.ttf") format("ttf");
+}
+
+
+
+
+.main {
+float: right;
+    list-style-type:none;
+text-align: center;
+width: 100px;
+width: px;
+font-size: 25px;
+margin-top:17px;
+    margin-top:15px;}
+    
+
+    #main{
+        margin-right:0px;
+        margin-top:17px;
+    float:right; text-align: center;  font-size: 40px;
+    list-style-type:none;
+    font-size: 25px;
+
+
+    }
+
+
+.d{
+    width: 130px;
+    float: right;
+    list-style-type:none;
+    text-align: center;
+    margin-top:10px;
+
+}
+
+
+
+
+
+#p1{ width:100%;}
+
+#q1{margin-left:80px;
+    margin-top:0px;
+float: left; text-align: center;  font-size: 40px;
+font-family: Lalezar;
+font-style:Oblique ;
+
+}
+#mm{
+    width: 100%;
+    height: 500px;
+    float:left;
+
+}
+
+
+
+#about\ us{
+
+display: inline-block;
+width: 50%;
+    height: 100%;
+    padding-top: 50px;
+    text-align: center;
+
+
+
+}
+#p3 {
+    text-align: center;
+border-radius: 10px;
+    font-family: Lalezar;
+    font-size: 30px;
+    border: black 2px solid;
+padding-left:7px;
+padding-right: 7px;
+}
+
+#l{
+    width: 600px;
+    height: 3px;
+
+
+}
+
+
+#picure {
+
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    float: right;
+
+}
+
+
+#m{
+
+    width:350px;
+    height: 300px;
+margin-left: 150px;
+  padding-top: 3px;
+
+}
+
+
+#u{
+
+    width:350px;
+    height: 300px;
+   padding-top: 50px;
+   margin-left: 10px;
+
+
+}
+#b{
+    width:350px;
+    height: 300px;
+    padding-top: 3px;
+    margin-left: 10px;
+
+}
+#n{
+    width:350px;
+    height: 300px;
+    padding-top: 50px;
+    margin-left: 150px;
+
+
+}
+
+
+
+#icon{ width: 40px;
+    height: 40px;
+    float: right;
+    list-style-type:none;
+    align-items: center;
+    margin-top:10px;
+    margin-right: 10px;
+
+}
+
+
+
+
+
+#parsa{
+height: 300px;
+width: 300px;
+}
+
+#download{
+
+    width: 40px;
+    height: 40px;
+    float: right;
+    list-style-type:none;
+    align-items: center;
+    margin-top:10px;
+    margin-right: 50px;
+    
+
+}
+
+#we{
+
+
+    font-size: 30px;
+    margin-top:20px;
+ 
+   font-family: "Lalezar";
+
+}
